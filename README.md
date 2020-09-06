@@ -183,3 +183,6 @@ _If you are going to use light neumorphism give a body className as theme-light_
 - white
 - special
 - aqua
+
+![logo](https://i.ibb.co/wpFMcLx/cosmiclogo.png)
+
