@@ -42,7 +42,6 @@ _Create an Link Tag inside the Head_
 - Cards
 - Rainbow Spinner & More
 - Backgrounds
-- Outline Buttons
 - Alert
 - Colorful Input-control
 - Quote
