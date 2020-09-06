@@ -9,7 +9,7 @@
    #### Via NPM
       
  ``` npm
-npm install cosmic.css
+npm install cosmiccss
 ```
   #### Via CDN
 
