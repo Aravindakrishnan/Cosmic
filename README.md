@@ -1,4 +1,4 @@
-# Cosmic CSS Framework v 1.0.0☄️
+ # Cosmic CSS Framework v 1.0.0☄️
 
 _Cosmic is a CSS Framework ☄️. It has More Unique Component Designs eg: Bouncing Button, Neumorphism, Responsive Cards, Rainbow Spinner, etc.,_
 
@@ -69,7 +69,7 @@ _If you are going to use light neumorphism give a body className as theme-light_
 
 ## Dark 🌑
 
-![](https://i.ibb.co/X4grgrG/neumorphismdarkinset.png)
+![alt neumorphismdarkinset](https://i.ibb.co/X4grgrG/neumorphismdarkinset.png)
 
 ```html
 <div
@@ -89,7 +89,7 @@ _If you are going to use light neumorphism give a body className as theme-light_
 
 ## Light ☀️
 
-![](https://i.ibb.co/n0NFj7s/neumorphismlight.png)
+![alt neumorphismlight](https://i.ibb.co/n0NFj7s/neumorphismlight.png)
 
 ```html
 <div
@@ -111,7 +111,7 @@ _If you are going to use light neumorphism give a body className as theme-light_
 
 ### #Normal-Buttons
 
-![](https://i.ibb.co/27ysQdL/normalbuttons.png)
+![alt normalbuttons](https://i.ibb.co/27ysQdL/normalbuttons.png)
 
 ```html
 <button class="btn btn-primary">Primary button</button>
@@ -127,7 +127,7 @@ _If you are going to use light neumorphism give a body className as theme-light_
 
 ### #Outline-Buttons
 
-![](https://i.ibb.co/gZsJWFZ/outlinebuttons.png)
+![alt outlinebuttons](https://i.ibb.co/gZsJWFZ/outlinebuttons.png)
 
 ```html
 <button class="btn btn-outline-primary">Primary button</button>
@@ -141,9 +141,44 @@ _If you are going to use light neumorphism give a body className as theme-light_
 <button class="btn btn-outline-white">White button</button>
 ```
 
-### # More Classes for buttons
+### More Classes for buttons
 
 - btn-muted / btn-disabled
 - btn-lg
 - btn-block
 - btn-group
+
+# Feature #3 Cards
+
+![alt cardimg](https://i.ibb.co/0fDhSCS/cards.png)
+
+```html
+<div class="card bg-aqua border-radius-min" style="max-width: 500px">
+  <img
+    class="img-fit border-radius-min"
+    src="https://f4.bcbits.com/img/a3808804510_10.jpg"
+    alt="img"
+  />
+  <div class="card-body text-white">
+    <h2 class="card-title">We are Developers 😇</h2>
+    <p>
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi dolores
+      dolore magni!
+    </p>
+    <button class="btn btn-aqua text-white mt-2">View Profile</button>
+    <button class="btn btn-aqua text-white mt-2">Follow</button>
+  </div>
+</div>
+```
+
+##### # Color Available in Cosmic 🌈
+
+- primary
+- secondary
+- danger
+- warning
+- success
+- dark
+- white
+- special
+- aqua
