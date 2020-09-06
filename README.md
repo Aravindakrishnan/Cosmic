@@ -24,7 +24,7 @@ https://rawcdn.githack.com/Aravindakrishnan/Cosmic/69b438f17c003c2e0a653d00a1397
 ```html
   <link
       rel="stylesheet"
-      href="./node_modules/cosmic/css/comic.min.css"
+      href="./node_modules/cosmiccss/css/comic.min.css"
     />
 ```
 
