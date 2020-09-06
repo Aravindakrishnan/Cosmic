@@ -13,7 +13,7 @@ npm install cosmic.css
 ```
   #### Via CDN
 
- https://rawcdn.githack.com/Aravindakrishnan/Cosmic/145b09d58887d65f59bbac2eaabcac8aa48a4308/cosmic.min.css
+https://rawcdn.githack.com/Aravindakrishnan/Cosmic/69b438f17c003c2e0a653d00a1397791e761662a/cosmic/css/cosmic.min.css
  
 # How to Use Cosmic ? 🤔
 
@@ -24,7 +24,7 @@ npm install cosmic.css
 ```html
   <link
       rel="stylesheet"
-      href="./node_modules/cosmic/comic.min.css"
+      href="./node_modules/cosmic/css/comic.min.css"
     />
 ```
 
