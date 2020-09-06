@@ -52,7 +52,22 @@ _Create an Link Tag inside the Head_
 
 # Feature #1 Neumorphism
 
-## Dark
+### neumorphic classes 📖
+
+- neumorphism-dark
+- neumorphism-dark-inset
+- neumorphism-light
+- neumorphism-light-inset
+- neumorphism-primary
+- neumorphism-lens
+- neumorphism-concave
+- neumorphism-convex
+
+_If you are going to use dark neumorphism give a body className as theme-dark_
+
+_If you are going to use light neumorphism give a body className as theme-light_
+
+## Dark 🌑
 
 ![](https://i.ibb.co/X4grgrG/neumorphismdarkinset.png)
 
@@ -72,7 +87,7 @@ _Create an Link Tag inside the Head_
 </div>
 ```
 
-## Light
+## Light ☀️
 
 ![](https://i.ibb.co/n0NFj7s/neumorphismlight.png)
 
@@ -91,3 +106,44 @@ _Create an Link Tag inside the Head_
   </div>
 </div>
 ```
+
+# Feature #2 Buttons
+
+### #Normal-Buttons
+
+![](https://i.ibb.co/27ysQdL/normalbuttons.png)
+
+```html
+<button class="btn btn-primary">Primary button</button>
+<button class="btn btn-danger">Danger button</button>
+<button class="btn btn-secondary text-white">Secondary button</button>
+<button class="btn btn-dark text-white">Dark button</button>
+<button class="btn btn-warning">Warning button</button>
+<button class="btn btn-success">Success button</button>
+<button class="btn btn-aqua text-white">Aqua button</button>
+<button class="btn btn-special text-white">Special button</button>
+<button class="btn btn-white text-dark">White button</button>
+```
+
+### #Outline-Buttons
+
+![](https://i.ibb.co/gZsJWFZ/outlinebuttons.png)
+
+```html
+<button class="btn btn-outline-primary">Primary button</button>
+<button class="btn btn-outline-danger">Danger button</button>
+<button class="btn btn-outline-secondary">Secondary button</button>
+<button class="btn btn-outline-dark">Dark button</button>
+<button class="btn btn-outine-warning">Warning button</button>
+<button class="btn btn-outline-success">Success button</button>
+<button class="btn btn-outline-aqua">Aqua button</button>
+<button class="btn btn-outline-special">Special button</button>
+<button class="btn btn-outline-white">White button</button>
+```
+
+### # More Classes for buttons
+
+- btn-muted / btn-disabled
+- btn-lg
+- btn-block
+- btn-group
