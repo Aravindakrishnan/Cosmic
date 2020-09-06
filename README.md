@@ -31,7 +31,7 @@ _Create an Link Tag inside the Head_
 ```html
 <link
   rel="stylesheet"
-  href="https://rawcdn.githack.com/Aravindakrishnan/Cosmic/145b09d58887d65f59bbac2eaabcac8aa48a4308/cosmic.min.css"
+  href="https://rawcdn.githack.com/Aravindakrishnan/Cosmic/b3fdff6ec6f9866fd9b1c3ee6dc5a5557842db04/cosmic/css/cosmic.min.css"
 />
 ```
 
