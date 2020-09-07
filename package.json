@@ -1,0 +1,19 @@
+{
+  "name": "cosmiccss",
+  "version": "1.2.3",
+  "description": "Cosmic is a CSS Framework ☄️. It has More Unique Component Designs eg: Bouncing Button, Neumorphism, Responsive Cards, Rainbow Spinner, etc.,",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aravindakrishnan/Cosmic.git"
+  },
+  "author": "Aravindakrishnan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aravindakrishnan/Cosmic/issues"
+  },
+  "homepage": "https://github.com/Aravindakrishnan/Cosmic#readme"
+}
