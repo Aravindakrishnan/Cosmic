@@ -1,5 +1,5 @@
 /*!
-    * Cosmic CSS Framework v1.2.5
+    * Cosmic CSS Framework v1.2.8
     * Copyright 2020 The Cosmic CSS Framework Author
     * Licensed under MIT https://github.com/Aravindakrishnan/Cosmic/blob/master/LICENSE
  */
@@ -499,7 +499,6 @@ a {
   background: var(--cm-warning);
 }
 .btn {
-  font-family: Sofia pro;
   border: none;
   outline: 0;
   padding: 8px;
@@ -691,6 +690,68 @@ a {
 .input-container {
   margin: 1rem 1rem;
 }
+
+.input-checkbox {
+  width: 24px;
+  height: 24px;
+  -webkit-appearance: none;
+  background: #cdcdcd;
+  outline: none;
+  transition: 0.1s;
+  border-radius: 7px;
+  position: relative;
+}
+
+.input-checkbox:checked {
+  background: #ffffff;
+  transform: scale(1.1);
+  transition: 0.1s;
+}
+.input-checkbox:before {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.input-checkbox:checked:before {
+  content: "\2713";
+  left: 5.7px;
+}
+
+.input-toggle {
+  position: relative;
+  width: 52px;
+  height: 32px;
+  background: #cdcdcd;
+  -webkit-appearance: none;
+  outline: none;
+  border-radius: 2rem;
+  transition: 0.1s;
+}
+
+.input-toggle:before {
+  content: "";
+  position: absolute;
+  width: 1.5rem;
+  height: 1.5rem;
+  background: #fff;
+  border-radius: 1rem;
+  left: 4px;
+  top: 3px;
+  transition: 0.2s;
+}
+.input-toggle:checked {
+  background: currentColor;
+}
+.input-toggle:checked:before {
+  left: 24px;
+  overflow: hidden;
+
+  transition: 0.2s;
+}
+
 .input-control {
   outline: 0;
   border: none;
