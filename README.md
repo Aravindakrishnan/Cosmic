@@ -1,3 +1,4 @@
+<img src="https://i.ibb.co/wpFMcLx/cosmiclogo.png">
 # Cosmic CSS Framework ☄️
 
 _Cosmic is a CSS Framework ☄️. It has More Unique Component Designs eg: Bouncing Button, Neumorphism, Responsive Cards, Rainbow Spinner, etc.,_
