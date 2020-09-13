@@ -14,7 +14,7 @@ npm install cosmiccss
 
 #### Via CDN
 
-[CDN LINK 🔥](https://rawcdn.githack.com/Aravindakrishnan/Cosmic/69b438f17c003c2e0a653d00a1397791e761662a/cosmic/css/cosmic.min.css)
+[CDN LINK 🔥](https://raw.githack.com/Aravindakrishnan/Cosmic/master/cosmic/css/cosmic.min.css)
 
 # How to Use Cosmic ? 🤔
 
@@ -31,7 +31,7 @@ _Create an Link Tag inside the Head_
 ```html
 <link
   rel="stylesheet"
-  href="https://rawcdn.githack.com/Aravindakrishnan/Cosmic/07bb893aa4e270d97e0e5ba95cfc0bcb4c3dbde0/cosmic/css/cosmic.min.css"
+  href="https://raw.githack.com/Aravindakrishnan/Cosmic/master/cosmic/css/cosmic.min.css"
 />
 ```
 
